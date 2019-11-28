@@ -2,7 +2,7 @@
 	"name": "publishtest",
 	"displayName": "publishtest",
 	"description": "this is the test for publishing the extension",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.40.0"
 	},
